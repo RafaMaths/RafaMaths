@@ -17,6 +17,7 @@
 [<img align="left" alt="twitter Rafael Mathias | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin Rafael Mathias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="instagram Rafael Mathias | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="facebook Rafael Mathias | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="e-mail Rafael Mathias | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][e-mail]
 
 </br>
@@ -54,3 +55,4 @@
 [instagram]: https://instagram.com/rafamaths
 [linkedin]: https://linkedin.com/in/rafamaths
 [e-mail]: mailto:rmathscoach@gmail.com
+[facebook]: https://www.facebook.com/rafamcr82/
