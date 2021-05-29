@@ -37,13 +37,14 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Jest" width="26px" src="https://github.com/facebook/jest/blob/master/website/static/img/jest.png?raw=true" />
 <img align="left" alt="React Testing Library" width="26px" src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" />
+<img align="left" alt="Cypress" width="26px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png?raw=true" />
+
 
 <br />
 <br />
----
-<summary>:zap: GitHub Stats</summary>
 
-[![RafaMaths's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaMaths)](https://github.com/RafaMathsgithub-readme-stats)
+![RafaMaths's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaMaths&theme=react&show_icons=true)
+
   
 [twitter]: https://twitter.com/rafamaths
 [instagram]: https://instagram.com/rafamaths
