@@ -44,7 +44,8 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMaths&layout=compact)](https://github.com/RafaMaths/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMaths)](https://github.com/RafaMaths/github-readme-stats)
+
 
 ![RafaMaths's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaMaths&theme=react&show_icons=true)
 
