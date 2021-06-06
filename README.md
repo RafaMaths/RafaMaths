@@ -14,11 +14,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="twitter Rafael Mathias | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="linkedin Rafael Mathias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram Rafael Mathias | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="facebook Rafael Mathias | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="e-mail Rafael Mathias | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][e-mail]
+[<img align="left" alt="twitter Rafael Mathias | Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" />][twitter]
+[<img align="left" alt="linkedin Rafael Mathias | LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="instagram Rafael Mathias | Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" />][instagram]
+[<img align="left" alt="facebook Rafael Mathias | Gmail" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/facebook.svg" />][facebook]
+[<img align="left" alt="e-mail Rafael Mathias | Gmail" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" />][e-mail]
 
 </br>
 
@@ -28,18 +28,16 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Jest" width="26px" src="https://github.com/facebook/jest/blob/master/website/static/img/jest.png?raw=true" />
-<img align="left" alt="React Testing Library" width="26px" src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" />
-<img align="left" alt="Cypress" width="26px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png?raw=true" />
-
+[<img align="left" alt="Visual Studio Code | VSCode" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html5]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css3]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/git.svg" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/github.svg" />][github]
+[<img align="left" alt="Jest" width="26px" src="https://github.com/facebook/jest/blob/master/website/static/img/jest.png?raw=true" />][jest]
+[<img align="left" alt="React Testing Library" width="26px" src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" />][rtl]
+[<img align="left" alt="Cypress" width="26px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png?raw=true" />][cypress]
 
 <br />
 <br />
@@ -57,3 +55,13 @@
 [linkedin]: https://linkedin.com/in/rafamaths
 [e-mail]: mailto:rmathscoach@gmail.com
 [facebook]: https://www.facebook.com/rafamcr82/
+[vscode]: https://code.visualstudio.com/
+[html5]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css3]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+[javascript]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+[react]: https://pt-br.reactjs.org/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[jest]: https://jestjs.io/pt-BR/
+[rtl]: https://testing-library.com/docs/react-testing-library/intro/
+[cypress]: https://www.cypress.io/
