@@ -14,11 +14,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="twitter Rafael Mathias | Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" />][twitter]
-[<img align="left" alt="linkedin Rafael Mathias | LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram Rafael Mathias | Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" />][instagram]
-[<img align="left" alt="facebook Rafael Mathias | Gmail" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/facebook.svg" />][facebook]
-[<img align="left" alt="e-mail Rafael Mathias | Gmail" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" />][e-mail]
+[<img align="left" alt="twitter Rafael Mathias | Twitter" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" />][twitter]
+[<img align="left" alt="linkedin Rafael Mathias | LinkedIn" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="instagram Rafael Mathias | Instagram" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" />][instagram]
+[<img align="left" alt="facebook Rafael Mathias | Gmail" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/facebook.svg" />][facebook]
+[<img align="left" alt="e-mail Rafael Mathias | Gmail" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" />][e-mail]
 
 </br>
 
@@ -28,16 +28,16 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code | VSCode" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css3]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/git.svg" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/github.svg" />][github]
-[<img align="left" alt="Jest" width="26px" src="https://github.com/facebook/jest/blob/master/website/static/img/jest.png?raw=true" />][jest]
-[<img align="left" alt="React Testing Library" width="26px" src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" />][rtl]
-[<img align="left" alt="Cypress" width="26px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png?raw=true" />][cypress]
+[<img align="left" alt="Visual Studio Code | VSCode" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html5]
+[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css3]
+[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/git.svg" />][git]
+[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/github.svg" />][github]
+[<img align="left" alt="Jest" width="30px" src="https://github.com/facebook/jest/blob/master/website/static/img/jest.png?raw=true" />][jest]
+[<img align="left" alt="React Testing Library" width="30px" src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" />][rtl]
+[<img align="left" alt="Cypress" width="30px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png?raw=true" />][cypress]
 
 <br />
 <br />
