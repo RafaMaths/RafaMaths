@@ -2,7 +2,7 @@
 
 <img align="left" alt="foto de Rafael Mathias | Twitter" width="100px" src="https://scontent.fgvr1-1.fna.fbcdn.net/v/t1.6435-9/186513790_4047206708665852_8048299096206347894_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGsy73GWceBZUeRxba4dO8kHRYAlJg1KpEdFgCUmDUqkbT8ANyn9pVId5Qirm6dUJSLVVGZ346XbOWh88qpAGI6&_nc_ohc=3B6346PF8NMAX_UtBV7&_nc_ht=scontent.fgvr1-1.fna&oh=4b5d303a39b4fe20c338462ff14f4f14&oe=60D77414" />
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rafamaths?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frafamaths&screen_name=rafamaths)
+![](https://komarev.com/ghpvc/?username=RafaMaths)
 
 ## I'm the father of Enrique and Elena, Marcilene's husband and Developer!
 
