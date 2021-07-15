@@ -1,10 +1,10 @@
-### Hi there, I'm Rafael Mathias 👋 <!-- [codeSTACKr][website] --> <!-- criando portfolio, colocar o endereço -->
+# Hi there, I'm Rafael Mathias 👋 <!-- [codeSTACKr][website] --> <!-- criando portfolio, colocar o endereço -->
 
 <img align="left" alt="foto de Rafael Mathias" width="100px" src="https://lh3.googleusercontent.com/05gDJ5O67ZHb1VBzOHKg6uqLZC9sFkXB9bScSDsw6Odh1s8MJxlj_lJV2DMcuTghjLL0gqvEkiqvcKYINr0=s220-rw" />
 
 ![](https://komarev.com/ghpvc/?username=RafaMaths)
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="twitter Rafael Mathias | Twitter" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin Rafael Mathias | LinkedIn" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" />][linkedin]
@@ -22,10 +22,6 @@
 - 📖 "Make your life worthwhile" - Title: Problems? Hey! Author: Roberto Shinyashiki
 - 🥅 2021 Goals: Getting my first job as a developer
 - ⚡ Fun fact: I love simple things like lying in bed or sitting at the table for dinner with my children and my wife to the sound of good music.
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marypsicologa&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
 ### Languages and Tools:
 
@@ -47,6 +43,12 @@
 
 
 ![RafaMaths's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaMaths&theme=react&show_icons=true)
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marypsicologa&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 
 
