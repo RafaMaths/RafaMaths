@@ -1,6 +1,6 @@
 ### Hi there, I'm Rafael Mathias 👋 <!-- [codeSTACKr][website] --> <!-- criando portfolio, colocar o endereço -->
 
-<img align="left" alt="foto de Rafael Mathias | Twitter" width="100px" src="https://drive.google.com/file/d/1eTFgkxQ2MGww2rVzsUUU-6Gm9ob61Lpk/view?usp=sharing" />
+<img align="left" alt="foto de Rafael Mathias" width="100px" src="https://cdn.leroymerlin.com.br/products/quadro_leao_bronze_100x100cm_90658085_0001_600x600.jpg" />
 
 ![](https://komarev.com/ghpvc/?username=RafaMaths)
 
