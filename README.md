@@ -1,16 +1,8 @@
 ### Hi there, I'm Rafael Mathias 👋 <!-- [codeSTACKr][website] --> <!-- criando portfolio, colocar o endereço -->
 
-<img align="left" alt="foto de Rafael Mathias" width="100px" src="https://cdn.leroymerlin.com.br/products/quadro_leao_bronze_100x100cm_90658085_0001_600x600.jpg" />
+<img align="left" alt="foto de Rafael Mathias" width="100px" src="https://lh3.googleusercontent.com/05gDJ5O67ZHb1VBzOHKg6uqLZC9sFkXB9bScSDsw6Odh1s8MJxlj_lJV2DMcuTghjLL0gqvEkiqvcKYINr0=s220-rw" />
 
 ![](https://komarev.com/ghpvc/?username=RafaMaths)
-
-## I'm the father of Enrique and Elena, Marcilene's husband and Developer!
-
-- 🔭 My future is to work with data. A passion!
-- 🌱 I’m currently learning Redux at Trybe <img width="20px" alt="redux logo" src="https://redux.js.org/img/redux.svg"/>
-- 📖 "Make your life worthwhile" - Title: Problems? Hey! Author: Roberto Shinyashiki
-- 🥅 2021 Goals: Getting my first job as a developer
-- ⚡ Fun fact: I love simple things like lying in bed or sitting at the table for dinner with my children and my wife to the sound of good music.
 
 ### Connect with me:
 
@@ -21,6 +13,15 @@
 [<img align="left" alt="e-mail Rafael Mathias | Gmail" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" />][e-mail]
 
 </br>
+</br>
+
+## I'm the father of Enrique and Elena, Marcilene's husband and Developer!
+
+- 🔭 My future is to work with data. A passion!
+- 🌱 I’m currently learning Redux at Trybe <img width="20px" alt="redux logo" src="https://redux.js.org/img/redux.svg"/>
+- 📖 "Make your life worthwhile" - Title: Problems? Hey! Author: Roberto Shinyashiki
+- 🥅 2021 Goals: Getting my first job as a developer
+- ⚡ Fun fact: I love simple things like lying in bed or sitting at the table for dinner with my children and my wife to the sound of good music.
 
 ### Spotify Playing 🎧
 
