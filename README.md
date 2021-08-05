@@ -1,7 +1,5 @@
 # Hi there, I'm Rafael Mathias 👋 <!-- [codeSTACKr][website] --> <!-- criando portfolio, colocar o endereço -->
 
-<img align="left" alt="foto de Rafael Mathias" width="100px" src="https://lh3.googleusercontent.com/05gDJ5O67ZHb1VBzOHKg6uqLZC9sFkXB9bScSDsw6Odh1s8MJxlj_lJV2DMcuTghjLL0gqvEkiqvcKYINr0=s220-rw" />
-
 ![](https://komarev.com/ghpvc/?username=RafaMaths)
 
 ## Connect with me:
