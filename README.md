@@ -16,7 +16,7 @@
 ## I'm the father of Enrique and Elena, Marcilene's husband and Developer!
 
 - 🔭 My future is to work with data. A passion!
-- 🌱 I’m currently learning SQL at Trybe <img width="20px" alt="SQL logo" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png"/>
+- 🌱 I’m currently learning MongoDB at Trybe <img width="20px" alt="SQL logo" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"/>
 - 📖 "Make your life worthwhile" - Title: Problems? Hey! Author: Roberto Shinyashiki
 - 🥅 2021 Goals: Getting my first job as a developer
 - ⚡ Fun fact: I love simple things like lying in bed or sitting at the table for dinner with my children and my wife to the sound of good music.
