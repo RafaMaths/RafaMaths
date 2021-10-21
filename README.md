@@ -16,7 +16,7 @@
 ## I'm the father of Enrique and Elena, Marcilene's husband and Developer!
 
 - 🔭 My future is to work with data. A passion!
-- 🌱 I'm currently learning NodeJS at Trybe <img width="20px" alt="Node logo" src="https://logosvector.net/wp-content/uploads/2015/09/nodejs-logo.png"/> and Python at Data Science Academy <img width="20px" alt="Python logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
+- 🌱 I'm currently learning NodeJS at Trybe <img width="20px" alt="Node logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"/> and Python at Data Science Academy <img width="20px" alt="Python logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
 - 📖 "Make your life worthwhile" - Title: Problems? Hey! Author: Roberto Shinyashiki
 - 🥅 2021 Goals: Getting my first job as a developer
 - ⚡ Fun fact: I love simple things like lying in bed or sitting at the table for dinner with my children and my wife to the sound of good music.
