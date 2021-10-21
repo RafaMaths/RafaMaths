@@ -42,7 +42,6 @@
 
 
 ![RafaMaths's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaMaths&theme=react&show_icons=true)
-![RafaMaths's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=RafaMaths)
 
 ### Spotify Playing 🎧
 
