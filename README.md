@@ -1,4 +1,15 @@
-# Hi there, I'm Rafael Mathias 👋 <!-- [codeSTACKr][website] --> <!-- criando portfolio, colocar o endereço -->
+<p align="center">
+  <img src="https://github.com/rafamaths/rafamaths/raw/main/assets/github.gif" alt="Hi, I'm Rafael 👋 I'm a fullstack developer 🚀 I ❤️ I love working with data ❤️">
+</p>
+
+<!--
+How to make this gif ?
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
 
 ![](https://komarev.com/ghpvc/?username=RafaMaths)
 
