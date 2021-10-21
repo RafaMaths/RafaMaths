@@ -30,7 +30,7 @@
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/git.svg" />][git]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/github.svg" />][github]
-[<img align="left" alt="Jest" width="30px" src="https://github.com/facebook/jest/blob/master/website/static/img/jest.png?raw=true" />][jest]
+[<img align="left" alt="Jest" width="30px" src="https://github.com/facebook/jest/blob/main/website/static/img/jest.png?raw=true" />][jest]
 [<img align="left" alt="React Testing Library" width="30px" src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" />][rtl]
 [<img align="left" alt="Cypress" width="30px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png?raw=true" />][cypress]
 
