@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RafaMaths/RafaMaths/blob/main/capaGitHub.gif" alt="Hi, I'm Rafael 👋 I'm a fullstack developer 🚀 I ❤️ I love working with data ❤️">
+  <img src="https://github.com/RafaMaths/RafaMaths/blob/main/coverGitHUb.gif" alt="Hi, I'm Rafael 👋 I'm a fullstack developer 🚀 I ❤️ I love working with data ❤️">
 </p>
 
 <!--
