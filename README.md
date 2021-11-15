@@ -13,7 +13,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 ![](https://komarev.com/ghpvc/?username=RafaMaths)
 
-## Connect with me:
+## Fale comigo:
 
 [<img align="left" alt="twitter Rafael Mathias | Twitter" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin Rafael Mathias | LinkedIn" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" />][linkedin]
@@ -24,13 +24,13 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 </br>
 </br>
 
-## I'm the father of Enrique and Elena, Marcilene's husband and Developer!
+## Sou pai do Enrique e da Elena, marido da Marcilene, e desenvolvedor!
 
-- 🔭 My future is to work with data. A passion!
-- 🌱 I'm currently learning NodeJS at Trybe <img width="20px" alt="Node logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"/> and Python at Data Science Academy <img width="20px" alt="Python logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
-- 📖 "Make your life worthwhile" - Title: Problems? Hey! Author: Roberto Shinyashiki
-- 🥅 2021 Goals: Getting my first job as a developer
-- ⚡ Fun fact: I love simple things like lying in bed or sitting at the table for dinner with my children and my wife to the sound of good music.
+- 🔭 Meu futuro é trabalhar com dados. Uma paixão!
+- 🌱 Atualmente aprendendo Socket.IO na Trybe <img width="20px" alt="SocketIO logo" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg"/> e aceleração em Data Science na Codenation.
+- 📖 "Faça sua vida valer à pena" - Livro: "Problemas? Oba! - Autor: Roberto Shinyashiki
+- 🥅 Meta em 2021: Conquistar meu primeiro trabalho como desenvolvedor |Conquistado|
+- ⚡ Curiosidade sobre mim: fui atleta da Seleção Brasileira de Handebol, gosto de ouvir Rock da década de 90 e meu prazer é estar brincando com meus filhos.
 
 ### Languages and Tools:
 
@@ -46,6 +46,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 [<img align="left" alt="Jest" width="30px" src="https://github.com/facebook/jest/blob/main/website/static/img/jest.png?raw=true" />][jest]
 [<img align="left" alt="React Testing Library" width="30px" src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" />][rtl]
 [<img align="left" alt="Cypress" width="30px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png?raw=true" />][cypress]
+[<img align="left" alt="socketio" width="30px" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" />][socketio]
 
 <br />
 <br />
@@ -58,11 +59,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marypsicologa&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
-
-
-
-
-
   
 [twitter]: https://twitter.com/rafamaths
 [instagram]: https://instagram.com/rafamaths
@@ -81,3 +77,4 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 [cypress]: https://www.cypress.io/
 [python]: https://www.python.org/
 [linux]: https://www.linux.org/
+[socketio]: https://socket.io/
