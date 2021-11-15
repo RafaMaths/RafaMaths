@@ -41,6 +41,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 [<img align="left" alt="linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>][linux]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="nodejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.pngg" />][nodejs]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/git.svg" />][git]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/github.svg" />][github]
 [<img align="left" alt="Jest" width="30px" src="https://github.com/facebook/jest/blob/main/website/static/img/jest.png?raw=true" />][jest]
@@ -77,4 +78,4 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 [cypress]: https://www.cypress.io/
 [python]: https://www.python.org/
 [linux]: https://www.linux.org/
-[socketio]: https://socket.io/
+[nodejs]: https://nodejs.org/en/docs/
