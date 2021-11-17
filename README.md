@@ -41,6 +41,8 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 [<img align="left" alt="linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>][linux]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="sql" width="30px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />][SQL]
+[<img align="left" alt="mongodb" width="30px" src=https://www.pinclipart.com/picdir/big/336-3367489_mongodb-mongodb-nosql-logo-clipart.png />][mongodb]
 [<img align="left" alt="nodejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" />][nodejs]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/git.svg" />][git]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/github.svg" />][github]
@@ -80,3 +82,5 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 [linux]: https://www.linux.org/
 [nodejs]: https://nodejs.org/en/docs/
 [socketio]: https://socket.io/
+[sql]: https://dev.mysql.com/doc/
+[mongodb]: https://www.mongodb.com/
