@@ -27,7 +27,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## Sou pai do Enrique e da Elena, marido da Marcilene, e desenvolvedor!
 
 - 🔭 Meu futuro é trabalhar com dados. Uma paixão!
-- 🌱 Atualmente estudando OOP em Python na Trybe <img width="20px" alt="SocketIO logo" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg"/> e aceleração em Data Science na Codenation.
+- 🌱 Atualmente estudando OOP em Python na Trybe <img width="20px" alt="SocketIO logo" src="https://lh3.googleusercontent.com/proxy/0MyDGIGGL6LkENrTboNiSxSVc-Vwh3Q5z9x971HGulhJ5-V76UnI98kfHLjwLL8bW9_pwWec2UOys06Ba8jdn6q3KW0Ix59FPODEA0haqgCsnA4me9JgKGEokO86dAwjCkJ2Eum8HT4UZzSnJ1JnrvE"/> e aceleração em Data Science na Codenation.
 - 📖 "Faça sua vida valer à pena" - Livro: "Problemas? Oba! - Autor: Roberto Shinyashiki
 - 🥅 Meta em 2021: Conquistar meu primeiro trabalho como desenvolvedor |Conquistado|
 - ⚡ Curiosidade sobre mim: fui atleta da Seleção Brasileira de Handebol, gosto de ouvir Rock da década de 90, churrasco é minha comida favorita e brincar com meus filhos é o que me deixa mais feliz.
